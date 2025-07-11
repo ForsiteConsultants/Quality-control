@@ -49,5 +49,5 @@ The folder `Future_development/` includes processes or modules identified as val
 
 An example document from the **ATCO** wildfire risk assessment project demonstrates how the quality control principles in this repository can be applied across multiple domains (e.g., Risk To, Risk From, Landscape Risk).
 
-📄 [Download ATCO Project Overview (Word Document)](./docs/ATCO_Project_Overview.docx)
+📄 [Download ATCO Wildfire Risk ID Update 2025 Workplan](https://github.com/ForsiteConsultants/Quality-control/raw/main/docs/ATCO_WildfireRiskIDUpdate2025_CombinedWorkplan.docx)
 
